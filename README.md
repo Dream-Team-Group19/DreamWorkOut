@@ -1,3 +1,33 @@
+## Dream WorkOut
+
+### App Description
+
+Allows users to create a custom workout plan from a list of targeted training sets. Users create a profile and are able to save workouts, share their workouts, and connect their music player to get motivated.
+
+### App Idea Evaluation
+
+- Category: Fitness
+- Mobile: Mobile provides a foundation for the features and use case of planning workouts. We will be able to connect to Apple Music, Facebook for sharing, and push notifications.
+- Story: Allows instant creation of a daily workout plan from a curated list of workout types. Takes the guessing out of what workouts to do.
+- Market: Anyone with access to gym equipment or free space for bodyweight can use this app. Subscription service for more curated workouts can be used for monetization.
+- Habit: Users create and view their workouts mutliple times a week, and even everyday.
+- Scope: Users will be able to view workouts targeting a specific body area, select specific workouts for that day, and select reps or time in terms of sets
+
+---
+
+### User Stories
+// TODO: Enumerate User Stories
+1. User can...
+
+---
+
+### Wireframes
+// TODO: Add Wireframe Images
+
+---
+
+### App Pitch Presentation
+// TODO: Add link to Pitch Presentation Deck
 
 # README
 
@@ -57,5 +87,3 @@ Workout/Music App (https://hackmd.io/SR5ovxoOTQ6cCrvQ33qnGw?edit) (described in 
  * Detail
  * Profile
  * Settings
-# IntroductionWork
-Week 1 work
