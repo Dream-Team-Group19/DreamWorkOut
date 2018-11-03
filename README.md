@@ -1,5 +1,5 @@
 
-# README Template
+# README
 
 Workout/Music App (https://hackmd.io/SR5ovxoOTQ6cCrvQ33qnGw?edit) (described in that link) will look like the following in your README:
 
