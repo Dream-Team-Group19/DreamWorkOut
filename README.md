@@ -16,25 +16,6 @@ Allows users to create a custom workout plan from a list of targeted training se
 ---
 
 ### User Stories
-// TODO: Enumerate User Stories
-1. User can...
-
----
-
-### Wireframes
-// TODO: Add Wireframe Images
-
----
-
-### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
-
-# README
-
-Workout/Music App (https://hackmd.io/SR5ovxoOTQ6cCrvQ33qnGw?edit) (described in that link) will look like the following in your README:
-
-## 1. User Stories (Required and Optional)
-
 **Required Must-have Stories**
  * Users can log in/register
  * Users pick from a category of workouts (chest, lower, full, etc) for the day
@@ -87,3 +68,14 @@ Workout/Music App (https://hackmd.io/SR5ovxoOTQ6cCrvQ33qnGw?edit) (described in 
  * Detail
  * Profile
  * Settings
+
+
+---
+
+### Wireframes
+// TODO: Add Wireframe Images
+
+---
+
+### App Pitch Presentation
+// TODO: Add link to Pitch Presentation Deck
