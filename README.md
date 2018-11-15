@@ -15,7 +15,7 @@ Allows users to create a custom workout plan from a list of targeted training se
 
 ---
 
-### User Stories
+## 1. User Stories
 **Required Must-have Stories**
  * Users can log in/register
  * Users pick from a category of workouts (chest, lower, full, etc) for the day
