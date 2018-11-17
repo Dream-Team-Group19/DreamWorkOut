@@ -73,7 +73,9 @@ Allows users to create a custom workout plan from a list of targeted training se
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+http://recordit.co/P377nSNjHn
+
+
 
 ---
 
