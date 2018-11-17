@@ -77,7 +77,7 @@ Allows users to create a custom workout plan from a list of targeted training se
 
 <img src=“https://i.imgur.com/RLsljnf.png” width=200><br>
 
-
+https://i.imgur.com/RLsljnf.png
 
 ---
 
