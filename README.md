@@ -73,7 +73,7 @@ Allows users to create a custom workout plan from a list of targeted training se
 ---
 
 ### Wireframes
-<img src=“[http://recordit.co/P377nSNjHn]” width=200><br>
+<img src=“http://recordit.co/P377nSNjHn” width=200><br>
 
 <img src=“https://i.imgur.com/RLsljnf.png” width=200><br>
 
