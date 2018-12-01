@@ -80,4 +80,6 @@ Allows users to create a custom workout plan from a list of targeted training se
 ---
 
 ### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+![](http://recordit.co/gYGjY3sZa6)
+
+[Pitch Presentation Link](https://docs.google.com/presentation/d/1shl_5s_htTWz8R62DPzJL_ZdXGx_0mnhNLSC-QsC4KI/edit?usp=sharing)
