@@ -80,6 +80,6 @@ Allows users to create a custom workout plan from a list of targeted training se
 ---
 
 ### App Pitch Presentation
-![](http://recordit.co/gYGjY3sZa6)
+![](http://g.recordit.co/gYGjY3sZa6.gif)
 
 [Pitch Presentation Link](https://docs.google.com/presentation/d/1shl_5s_htTWz8R62DPzJL_ZdXGx_0mnhNLSC-QsC4KI/edit?usp=sharing)
